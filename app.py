@@ -10,3 +10,8 @@ for pokemon in data["results"]:
     
 print(names)
 
+
+"""
+Bu dosya ödev amaçlıdır.
+"""
+
